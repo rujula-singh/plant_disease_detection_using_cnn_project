@@ -40,7 +40,7 @@ This project is a deep learning-based web application that identifies **plant di
 
 ## 📄 Report
 
-📎 [Download the Final Project Report (PDF)](./plant_disease_detection_report.pdf)
+📎 [Download the Final Project Report (PDF)](plant_disease_detection_report.pdf)
 
 ---
 
