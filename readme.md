@@ -43,6 +43,12 @@ This project is a deep learning-based web application that identifies **plant di
 📎 [Download the Final Project Report (PDF)](Plant_disease_detection_report.pdf)
 
 ---
+## 🔗 Trained Model File
+
+➡️ [Download plant.keras from Google Drive](https://drive.google.com/file/d/1XjwuVmvagywO8tbqXz0N70_NgH8ilx-f/view?usp=sharing)
+
+📌 After downloading, place the file in the same directory as the Streamlit app (`streamlit_app.py`).
+
 
 ## 🔍 Dataset
 
