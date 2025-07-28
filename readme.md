@@ -40,13 +40,13 @@ This project is a deep learning-based web application that identifies **plant di
 
 ## 📄 Report
 
-📎 [Download the Final Project Report (PDF)](./Plant_Disease_Classifier_Report.pdf)
+📎 [Download the Final Project Report (PDF)](./plant_disease_detection_report.pdf)
 
 ---
 
 ## 🔍 Dataset
 
-- **Source**: [PlantVillage on Kaggle]()  
+- **Source**: [https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset]  
 - **Classes**: 38 disease categories  
 - **Total Images**: ~43,000+  
 
