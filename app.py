@@ -1,4 +1,7 @@
 
+# Make sure 'plant.keras' is downloaded from the provided Google Drive link
+# and placed in the same folder as this script before running.
+
 import os
 import json
 from PIL import Image
