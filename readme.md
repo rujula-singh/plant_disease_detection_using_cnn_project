@@ -2,10 +2,6 @@
 
 A full-stack web application that identifies **plant diseases from leaf images** using a **Convolutional Neural Network (CNN)** trained on the PlantVillage dataset. The project features a **FastAPI** backend for inference and a modern **React + Vite** frontend with a premium dark-mode UI.
 
-<p align="center">
-  <img src="./streamlit_app.png" alt="App Screenshot" width="700"/>
-</p>
-
 ---
 
 ## 📌 Features
@@ -251,23 +247,8 @@ The model can classify **38 categories** across **14 crop species**:
 
 ---
 
-## 📄 Report
-
-📎 [Download the Final Project Report (PDF)](Plant_disease_detection_report.pdf)
-
----
-
-## 🖥️ Legacy Streamlit App
-
-A standalone Streamlit demo (`app.py`) is also included for quick local testing:
-
-```bash
-# From the project root
-pip install streamlit tensorflow pillow numpy
-streamlit run app.py
-```
-
-> **Note:** Make sure `plant_final.keras` and `class_indices.json` are in the project root directory for the Streamlit app.
+## Application Preview
+![App Screenshot][demo-image.png]
 
 ---
 
