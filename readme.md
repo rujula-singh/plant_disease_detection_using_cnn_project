@@ -50,13 +50,6 @@ A full-stack web application that identifies **plant diseases from leaf images**
 | Framer Motion    | Animations & transitions         |
 | Axios            | HTTP client for API calls        |
 
-### Other
-| Tool             | Purpose                          |
-|------------------|----------------------------------|
-| Streamlit        | Legacy standalone demo app       |
-| Google Colab     | GPU-based model training         |
-| GitHub           | Version control & hosting        |
-
 ---
 
 ## 📂 Project Structure
