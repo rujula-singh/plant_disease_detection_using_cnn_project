@@ -248,7 +248,7 @@ The model can classify **38 categories** across **14 crop species**:
 ---
 
 ## Application Preview
-![App Screenshot][demo-image.png]
+![App Screenshot](demo-image.png)
 
 ---
 
@@ -258,6 +258,4 @@ This project is for educational and research purposes.
 
 ---
 
-<p align="center">
-  Made with 💚 by <a href="https://github.com/rujula-singh">Rujula Singh</a>
-</p>
+
